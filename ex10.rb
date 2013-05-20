@@ -13,3 +13,8 @@ puts tabby_cat
 puts persian_cat
 puts backslash_cat
 puts fat_cat
+
+charlotte ="\tNortherner"
+quote = 'How\'s it going'
+
+puts quote + charlotte
