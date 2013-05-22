@@ -35,7 +35,7 @@ end
 # At the top i is 5
 # Numbers now: [0, 1, 2, 3, 4, 5]
 # At the bottom i is 6
-# The numbers: 
+# The numbers:  
 # 0
 # 1
 # 2
