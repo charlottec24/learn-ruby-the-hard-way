@@ -14,7 +14,7 @@
 
 # puts bits_n_bobs.inspect
 
-# Create mapping of state to abbreviation
+# Create mapping of county to abbreviation
 counties = {
 	'Yorkshire' => 'YO',
 	'London' => 'LN',
